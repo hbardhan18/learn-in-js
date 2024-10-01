@@ -61,3 +61,6 @@ console.log(number1/number2);
 //=-to assign value;
 //==-comparsion data;
 //===-comparsion data and datatypes;
+var first= "hello";
+var second= "hello";
+console.log(first == second);
