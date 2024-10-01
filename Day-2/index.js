@@ -34,8 +34,28 @@ console.log(mynumber);
 }
 }
 //hoisting
-var myNumber;
-console.log(myNumber,typesOf(myNumber));
+//line by line exceution
+var myNumber=20;
+console.log(myNumber);
+mynumber=30;
+console.log(mynumber);
+var mynumber;
+//conditional statrment
+//if else
+//
+// statement 1
+// }else{
+// statement 2
+// }
+// console.log(nunber1 < number2);
+// if(true) {
+//     //true
+//     console.log("number1 is greater.");
+// } else{
+//     //false
+//     console.log("number is greater.");
+// }
+
         
 
     
